@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VSS Pin=C5-2
+Removed Pin From Net: NetName=VSS Pin=C7-2
+Removed Pin From Net: NetName=VSS Pin=X1-3
+Removed Pin From Net: NetName=VSS Pin=X1-4
+Added Room: Name=FOC

@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=C_FOC Member=C14
+Removed Member From Class: ClassName=C_FOC Member=C22
+Removed Member From Class: ClassName=C_FOC Member=C23
+Removed Member From Class: ClassName=C_FOC Member=LED2
+Removed Member From Class: ClassName=C_FOC Member=R12
+Removed Member From Class: ClassName=C_FOC Member=U3
+Change Component Designator: OldDesignator=R4 NewDesignator=R10
+Change Component Designator: OldDesignator=R5 NewDesignator=R11
+Added Pin To Net: NetName=ADC2 Pin=U5-5
+Added Pin To Net: NetName=ADC1 Pin=U6-5
+Change Net Name : Old Net Name=PWM1 New Net Name=M0_IN1
+Change Net Name : Old Net Name=PWM2 New Net Name=M0_IN2
+Change Net Name : Old Net Name=PWM3 New Net Name=M0_IN3
+Added Member To Class: ClassName=C_FOC Member=Component C1 22uF
+Added Member To Class: ClassName=C_FOC Member=Component C2 22uF
+Added Member To Class: ClassName=C_FOC Member=Component C3 22uF
+Added Member To Class: ClassName=C_FOC Member=Component C4 22uF
+Added Member To Class: ClassName=C_FOC Member=Component C5 22PF
+Added Member To Class: ClassName=C_FOC Member=Component C6 22PF
+Added Member To Class: ClassName=C_FOC Member=Component C7 22uF
+Added Member To Class: ClassName=M_FOC Member=Component C8 100nF
+Added Member To Class: ClassName=M_FOC Member=Component C9 4.7uF
+Added Member To Class: ClassName=M_FOC Member=Component C10 100nF
+Added Member To Class: ClassName=M_FOC Member=Component C11 4.7uF
+Added Member To Class: ClassName=M_FOC Member=Component C12 10uF ¡À10% 16V
+Added Member To Class: ClassName=M_FOC Member=Component C13 10uF ¡À20% 16V
+Added Member To Class: ClassName=M_FOC Member=Component C14 22uF
+Added Member To Class: ClassName=M_FOC Member=Component C15 22uF
+Added Member To Class: ClassName=M_FOC Member=Component C16 100nF
+Added Member To Class: ClassName=M_FOC Member=Component C17 1.2nF
+Added Member To Class: ClassName=M_FOC Member=Component C18 10pF
+Added Member To Class: ClassName=M_FOC Member=Component C19 0.22uF
+Added Member To Class: ClassName=M_FOC Member=Component C20 10nF
+Added Member To Class: ClassName=M_FOC Member=Component C21 1uF
+Added Member To Class: ClassName=C_FOC Member=Component LED1 led
+Added Member To Class: ClassName=M_FOC Member=Component P1 WJ126V-5.0-2P
+Added Member To Class: ClassName=M_FOC Member=Component P2 WJ126V-5.0-3P
+Added Member To Class: ClassName=C_FOC Member=Component R1 10K
+Added Member To Class: ClassName=C_FOC Member=Component R2 330R
+Added Member To Class: ClassName=C_FOC Member=Component R3 10K
+Added Member To Class: ClassName=M_FOC Member=Component R6 62K
+Added Member To Class: ClassName=M_FOC Member=Component R7 330K
+Added Member To Class: ClassName=M_FOC Member=Component R8 220
+Added Member To Class: ClassName=M_FOC Member=Component R9 0
+Added Member To Class: ClassName=C_FOC Member=Component R10 10K
+Added Member To Class: ClassName=M_FOC Member=Component R10 68K
+Added Member To Class: ClassName=C_FOC Member=Component R11 10K
+Added Member To Class: ClassName=M_FOC Member=Component R11 10K
+Added Member To Class: ClassName=C_FOC Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=C_FOC Member=Component U2 AMS1117-3.3_C369933
+Added Member To Class: ClassName=M_FOC Member=Component U3 TPS54331DR
+Added Member To Class: ClassName=M_FOC Member=Component U4 LM1117S-3.3

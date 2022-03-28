@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=SW1 Old Footprint=KEY-TH_L6.0-W3.5-P6.50 New Footprint=SW-TH_L6.0-W3.5-P6.50
+Added Member To Class: ClassName=M_FOC Member=Component P2 WJ126V-5.0-3P
+Added Member To Class: ClassName=FOC Member=Component R11 0
+Added Member To Class: ClassName=M_FOC Member=Component R18 0.1

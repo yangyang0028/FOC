@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SGND Pin=CN1-1
+Removed Pin From Net: NetName=SVCC_3.3 Pin=CN1-2
+Removed Pin From Net: NetName=SVCC_3.3 Pin=CN2-3
+Removed Pin From Net: NetName=SGND Pin=CN2-4
+Added Pin To Net: NetName=SVCC_3.3 Pin=CN1-1
+Added Pin To Net: NetName=SGND Pin=CN1-2
+Added Pin To Net: NetName=SGND Pin=CN2-3
+Added Pin To Net: NetName=SVCC_3.3 Pin=CN2-4
+Added Member To Class: ClassName=FOC Member=Component CN2 GH1.25_4P
+Added Member To Class: ClassName=FOC Member=Component SW1 UK

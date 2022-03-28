@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=M_Y Pin=P2-1
+Removed Pin From Net: NetName=M_X Pin=P2-2
+Removed Pin From Net: NetName=M_Z Pin=P2-3
+Removed Member From Class: ClassName=M_FOC Member=P2
+Change Component Comment : Designator=C21 Old Comment=220nF New Comment=1uF
+Added Component: Designator=P?(CONN-TH_3P-P5.00_WJ126V-5.0-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ReliaPro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "WJ126V-5.0-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C8401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "WJ126V-5.0-3P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M_Y Pin=P?-1
+Added Pin To Net: NetName=M_X Pin=P?-2
+Added Pin To Net: NetName=M_Z Pin=P?-3

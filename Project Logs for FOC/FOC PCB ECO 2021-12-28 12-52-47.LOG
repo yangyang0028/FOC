@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=UART1_TX Pin=CN3-1
+Removed Pin From Net: NetName=UART1_RX Pin=CN3-2
+Removed Pin From Net: NetName=VSS Pin=CN3-3
+Removed Pin From Net: NetName=MUC_INPUT Pin=CN3-4
+Added Pin To Net: NetName=MUC_INPUT Pin=CN3-1
+Added Pin To Net: NetName=VSS Pin=CN3-2
+Added Pin To Net: NetName=UART1_RX Pin=CN3-3
+Added Pin To Net: NetName=UART1_TX Pin=CN3-4

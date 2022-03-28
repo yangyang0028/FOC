@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=SW1
+Added Component: Designator=T1(test)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(test)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SWDIO Pin=T1-0
+Added Pin To Net: NetName=SWCLK Pin=T2-0
+Added Member To Class: ClassName=FOC Member=Component C5 22PF
+Added Member To Class: ClassName=FOC Member=Component C6 22PF
+Added Member To Class: ClassName=FOC Member=Component LED1 led
+Added Member To Class: ClassName=FOC Member=Component R3 10K
+Added Member To Class: ClassName=FOC Member=Component S1 switch
+Added Member To Class: ClassName=FOC Member=Component SW1 UK
+Added Member To Class: ClassName=FOC Member=Component T1 T
+Added Member To Class: ClassName=FOC Member=Component T2 T

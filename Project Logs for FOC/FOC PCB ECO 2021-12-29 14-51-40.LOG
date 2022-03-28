@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=R4-2
+Change Component Designator: OldDesignator= NewDesignator=SW1
+Change Component Designator: OldDesignator= NewDesignator=X1
+Added Pin To Net: NetName=SVCC_3.3 Pin=R4-2
+Added Member To Class: ClassName=FOC Member=Component SW1 UK

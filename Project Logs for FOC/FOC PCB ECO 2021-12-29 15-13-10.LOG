@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=CN2-1
+Removed Pin From Net: NetName=SGND Pin=CN2-2
+Removed Pin From Net: NetName=UART1_RX Pin=CN2-3
+Removed Pin From Net: NetName=UART1_TX Pin=CN2-4
+Removed Pin From Net: NetName=SVCC_3.3 Pin=R4-2
+Change Component Designator: OldDesignator= NewDesignator=X1
+Added Pin To Net: NetName=UART1_RX Pin=CN2-1
+Added Pin To Net: NetName=UART1_TX Pin=CN2-2
+Added Pin To Net: NetName=SVCC_3.3 Pin=CN2-3
+Added Pin To Net: NetName=SGND Pin=CN2-4
+Added Pin To Net: NetName=VCC_3.3 Pin=R4-2

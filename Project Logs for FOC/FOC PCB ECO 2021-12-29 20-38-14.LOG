@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=M_IN2 Pin=U4-4
+Added Pin To Net: NetName=M_IN1 Pin=U4-7
+Added Pin To Net: NetName=M_IN3 Pin=U4-14
+Change Net Name : Old Net Name=M0_EN New Net Name=M_EN
+Change Net Name : Old Net Name=M0_OUT1 New Net Name=M_OUT1
+Change Net Name : Old Net Name=M0_OUT2 New Net Name=M_OUT2
+Change Net Name : Old Net Name=M0_OUT3 New Net Name=M_OUT3
+Added Room: Name=FOC
+Added Room: Name=M_FOC

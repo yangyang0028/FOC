@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RST Pin=U1-7
+Added Pin To Net: NetName=SGND Pin=U1-8
+Added Pin To Net: NetName=SVCC_3.3 Pin=U1-9
+Added Pin To Net: NetName=ADC1 Pin=U1-11
+Added Pin To Net: NetName=ADC2 Pin=U1-12
+Added Pin To Net: NetName=PWM3 Pin=U1-21
+Added Pin To Net: NetName=SGND Pin=U1-23
+Added Pin To Net: NetName=SVCC_3.3 Pin=U1-24
+Added Pin To Net: NetName=UART1_TX Pin=U1-30
+Added Pin To Net: NetName=UART1_RX Pin=U1-31
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=SGND Pin=U1-35
+Added Pin To Net: NetName=SVCC_3.3 Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=PWM1 Pin=U1-38
+Added Pin To Net: NetName=PWM2 Pin=U1-39
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-42
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-43
+Added Pin To Net: NetName=SGND Pin=U1-47
+Added Pin To Net: NetName=SVCC_3.3 Pin=U1-48
+Added Pin To Net: NetName=ANGLE Pin=U1-10
+Added Net: Name=ANGLE

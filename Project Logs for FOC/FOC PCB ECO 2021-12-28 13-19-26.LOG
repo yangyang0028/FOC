@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=CN1 NewDesignator=swd
+Change Component Designator: OldDesignator=CN2 NewDesignator=i2c1
+Change Component Designator: OldDesignator=CN3 NewDesignator=uart1
+Added Member To Class: ClassName=FOC Member=Component i2c1 4P
+Added Member To Class: ClassName=FOC Member=Component uart1 4P

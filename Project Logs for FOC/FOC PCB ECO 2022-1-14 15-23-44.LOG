@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=C5-2
+Removed Pin From Net: NetName=OSC_IN Pin=C6-2
+Change Component Comment : Designator=C5 Old Comment=22nF New Comment=22pF
+Change Component Comment : Designator=C6 Old Comment=22nF New Comment=22pF
+Change Component Designator: OldDesignator=Y_X_Z NewDesignator=P2

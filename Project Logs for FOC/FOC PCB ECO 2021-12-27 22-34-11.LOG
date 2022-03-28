@@ -1,0 +1,8 @@
+Added Component: Designator=T1(test)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(test)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SWDIO Pin=T1-0
+Added Pin To Net: NetName=SWCLK Pin=T2-0
+Added Member To Class: ClassName=FOC Member=Component T1 T
+Added Member To Class: ClassName=FOC Member=Component T2 T

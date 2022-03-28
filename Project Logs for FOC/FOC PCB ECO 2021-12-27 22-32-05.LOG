@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MUC_INPUT Pin=T3-0
+Removed Pin From Net: NetName=VDD Pin=T4-0
+Removed Pin From Net: NetName=I2C1_SCL Pin=T5-0
+Removed Member From Class: ClassName=FOC Member=T3
+Removed Member From Class: ClassName=FOC Member=T4
+Removed Member From Class: ClassName=FOC Member=T5
+Added Member To Class: ClassName=FOC Member=Component C4 22uF
+Added Member To Class: ClassName=FOC Member=Component C6 22PF
+Added Member To Class: ClassName=FOC Member=Component C7 22uF
+Added Member To Class: ClassName=FOC Member=Component R2 330R
+Added Member To Class: ClassName=FOC Member=Component R3 10K

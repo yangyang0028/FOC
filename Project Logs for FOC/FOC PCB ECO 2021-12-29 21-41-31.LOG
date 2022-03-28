@@ -1,0 +1,15 @@
+Added Component: Designator=R22(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C17414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "0805W8F1002T5E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M_EN Pin=R22-1
+Added Pin To Net: NetName=M_EN1 Pin=R22-2
+Added Pin To Net: NetName=M_EN1 Pin=U1-10
+Added Net: Name=M_EN1
+Added Member To Class: ClassName=FOC Member=Component R22 0

@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=SGND Pin=C9-1
+Removed Pin From Net: NetName=SGND Pin=C10-1
+Removed Pin From Net: NetName=SGND Pin=C11-1
+Removed Pin From Net: NetName=SGND Pin=C12-1
+Removed Pin From Net: NetName=SGND Pin=C13-1
+Removed Pin From Net: NetName=SGND Pin=C14-1
+Removed Pin From Net: NetName=SGND Pin=C16-1
+Removed Pin From Net: NetName=SGND Pin=C17-2
+Removed Pin From Net: NetName=SGND Pin=C18-1
+Removed Pin From Net: NetName=SGND Pin=D1-2
+Removed Pin From Net: NetName=SGND Pin=R15-1
+Removed Pin From Net: NetName=SGND Pin=R16-1
+Removed Pin From Net: NetName=SGND Pin=R17-1
+Removed Pin From Net: NetName=SGND Pin=U2-7
+Removed Pin From Net: NetName=SGND Pin=U3-1
+Added Component: Designator=P?(CONN-TH_WJ126V-5.0-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ReliaPro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "WJ126V-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C8404"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "WJ126V-5.0-2P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC12_2 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VIN Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetC12_2 Pin=U3-3
+Change Net Name : Old Net Name=NetC12_2 New Net Name=SVCC_5V
+Added Member To Class: ClassName=FOC Member=Component CN3 GH1.25_4P
+Added Member To Class: ClassName=FOC Member=Component P? WJ126V-5.0-2P
+Added Member To Class: ClassName=FOC Member=Component R2 10K
+Added Member To Class: ClassName=FOC Member=Component R4 330
+Added Member To Class: ClassName=FOC Member=Component R6 0
+Added Member To Class: ClassName=FOC Member=Component R7 62K
+Added Member To Class: ClassName=FOC Member=Component R8 330K
+Added Member To Class: ClassName=FOC Member=Component R11 0
+Added Member To Class: ClassName=FOC Member=Component R12 0

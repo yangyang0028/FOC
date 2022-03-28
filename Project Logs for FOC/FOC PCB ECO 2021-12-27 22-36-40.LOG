@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=I2C1_SCL Pin=CN2-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=CN2-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=R10-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=R11-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=U1-42
+Removed Pin From Net: NetName=I2C1_SCL Pin=U1-43
+Change Net Name : Old Net Name=I2C1_SCL New Net Name=VSS
+Added Pin To Net: NetName=I2C1_SCL Pin=CN2-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R11-1
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-42
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=CN2-2
+Added Pin To Net: NetName=I2C1_SDA Pin=R10-1
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-43
+Added Net: Name=I2C1_SDA

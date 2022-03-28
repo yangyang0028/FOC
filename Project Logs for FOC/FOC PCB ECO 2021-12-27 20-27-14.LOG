@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VSS Pin=CN1-3
+Removed Pin From Net: NetName=VDD Pin=CN1-4
+Change Component Comment : Designator=CN1 Old Comment=DF13-4P-1.25H(21) New Comment=4P

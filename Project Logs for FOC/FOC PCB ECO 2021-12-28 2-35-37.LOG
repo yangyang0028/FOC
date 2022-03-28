@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SWDIO Pin=T1-0
+Removed Pin From Net: NetName=SWCLK Pin=T2-0
+Removed Member From Class: ClassName=FOC Member=T1
+Removed Member From Class: ClassName=FOC Member=T2

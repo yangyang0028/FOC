@@ -1,0 +1,55 @@
+Net Status Report
+Filename     : C:\Users\yangy\Documents\PersonalProject\FOC\PCB\FOC.PcbDoc
+Date         : 2022/3/6
+Time         : 21:05:53
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    ADC1, Signal Layers Only, 1318.932mils
+    ADC2, Signal Layers Only, 1148.523mils
+    BOOT0, Signal Layers Only, 300.797mils
+    GND, Signal Layers Only, 6402.042mils
+    I2C1_SCL, Signal Layers Only, 2838.909mils
+    I2C1_SDA, Signal Layers Only, 2844.652mils
+    I_X, Signal Layers Only, 1345.124mils
+    I_Y, Signal Layers Only, 743.497mils
+    M_EN, Signal Layers Only, 2021.35mils
+    M_IN1, Signal Layers Only, 1098.403mils
+    M_IN2, Signal Layers Only, 930.14mils
+    M_IN3, Signal Layers Only, 1135.474mils
+    M_OUT1, Signal Layers Only, 810.149mils
+    M_OUT2, Signal Layers Only, 561.045mils
+    M_OUT3, Signal Layers Only, 415.202mils
+    M_X, Signal Layers Only, 1555.169mils
+    M_Y, Signal Layers Only, 1753.822mils
+    M_Z, Signal Layers Only, 627.484mils
+    NetC14_2, Signal Layers Only, 108.546mils
+    NetC15_1, Signal Layers Only, 81.22mils
+    NetC15_2, Signal Layers Only, 243.989mils
+    NetC19_1, Signal Layers Only, 342.362mils
+    NetC20_1, Signal Layers Only, 252.375mils
+    NetC20_2, Signal Layers Only, 75.632mils
+    NetC21_2, Signal Layers Only, 365.594mils
+    NetC8_1, Signal Layers Only, 451.384mils
+    NetC8_2, Signal Layers Only, 178.726mils
+    NetLED1_2, Signal Layers Only, 69.6mils
+    NetLED2_2, Signal Layers Only, 83.582mils
+    NetR7_1, Signal Layers Only, 213.495mils
+    NetR8_1, Signal Layers Only, 199.804mils
+    OSC_IN, Signal Layers Only, 886.756mils
+    OSC_OUT, Signal Layers Only, 670.385mils
+    PC13, Signal Layers Only, 97.954mils
+    PGND, Signal Layers Only, 4343.951mils
+    PWM1, Signal Layers Only, 1302.373mils
+    PWM2, Signal Layers Only, 1342.333mils
+    PWM3, Signal Layers Only, 1910.689mils
+    RST, Signal Layers Only, 991.217mils
+    SGND, Signal Layers Only, 10427.846mils
+    SVCC_3.3, Signal Layers Only, 8996.402mils
+    SVCC_5V, Signal Layers Only, 2610.125mils
+    SWCLK, Signal Layers Only, 1046.266mils
+    SWDIO, Signal Layers Only, 565.593mils
+    UART1_RX, Signal Layers Only, 509.895mils
+    UART1_TX, Signal Layers Only, 463.785mils
+    VIN, Signal Layers Only, 6659.753mils
+count : 47

@@ -1,0 +1,15 @@
+Added Component: Designator=X1(CRYSTAL-SMD_4P-L5.0-W3.2-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TXC Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "7B08070003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C337573"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Frequency"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "7B08070003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC_IN Pin=X1-1
+Added Pin To Net: NetName=SGND Pin=X1-2
+Added Pin To Net: NetName=OSC_OUT Pin=X1-3
+Added Pin To Net: NetName=SGND Pin=X1-4
+Added Member To Class: ClassName=FOC Member=Component X1 8MHz

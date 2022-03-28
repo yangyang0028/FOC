@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\yangy\Documents\PersonalProject\FOC\PCB\FOC.PcbDoc
+Date         : 2022/3/6
+Time         : 21:38:23
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 159
+    Connections routed, 159
+    Connections remaining, 0
+count : 4
